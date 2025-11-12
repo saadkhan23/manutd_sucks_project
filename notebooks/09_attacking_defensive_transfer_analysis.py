@@ -43,19 +43,19 @@ attacking_data = {
     'rivals_comparison': []
 }
 
-# 1. ATTACKING EDGE: Progressive Carries vs Goals
+# 1. ATTACKING EDGE: Progressive Carries/90 vs Goals/90
 print("\nAttacking Edge (Progressive Carries/90 vs Goals/90):")
 for _, row in latest_data.iterrows():
-    if pd.notna(row['progression_prgc']) and pd.notna(row['per_90_minutes_gls']):
+    if pd.notna(row['progression_prgp']) and pd.notna(row['per_90_minutes_gls']):
         attacking_data['attacking_edge'].append({
             'squad': row['squad'],
             'season': str(row['season']),
-            'progressive_carries': float(row['progression_prgc']),
+            'progressive_carries': float(row['progression_prgp']),
             'goals_per_90': float(row['per_90_minutes_gls']),
             'is_man_utd': row['squad'] == 'Manchester Utd'
         })
         if row['squad'] == 'Manchester Utd':
-            print(f"  {row['squad']}: {row['progression_prgc']:.1f} prog carries, {row['per_90_minutes_gls']:.2f} goals/90")
+            print(f"  {row['squad']}: {row['progression_prgp']:.1f} prog carries/90, {row['per_90_minutes_gls']:.2f} goals/90")
 
 # 2. PERFORMANCE VS EXPECTED: xG/90 vs Actual Goals/90
 print("\nPerformance vs Expected (xG/90 vs Actual Goals/90):")
