@@ -3,140 +3,140 @@
     {
       "squad": "Arsenal",
       "season": "2025-26",
-      "progressive_carries": 153.0,
+      "progressive_carries": 293.0,
       "goals_per_90": 2.0,
       "is_man_utd": false
     },
     {
       "squad": "Aston Villa",
       "season": "2025-26",
-      "progressive_carries": 112.0,
+      "progressive_carries": 277.0,
       "goals_per_90": 0.86,
       "is_man_utd": false
     },
     {
       "squad": "Bournemouth",
       "season": "2025-26",
-      "progressive_carries": 123.0,
+      "progressive_carries": 267.0,
       "goals_per_90": 1.57,
       "is_man_utd": false
     },
     {
       "squad": "Brentford",
       "season": "2025-26",
-      "progressive_carries": 81.0,
+      "progressive_carries": 155.0,
       "goals_per_90": 1.29,
       "is_man_utd": false
     },
     {
       "squad": "Brighton",
       "season": "2025-26",
-      "progressive_carries": 122.0,
+      "progressive_carries": 237.0,
       "goals_per_90": 1.43,
       "is_man_utd": false
     },
     {
       "squad": "Burnley",
       "season": "2025-26",
-      "progressive_carries": 52.0,
+      "progressive_carries": 160.0,
       "goals_per_90": 1.0,
       "is_man_utd": false
     },
     {
       "squad": "Chelsea",
       "season": "2025-26",
-      "progressive_carries": 141.0,
+      "progressive_carries": 278.0,
       "goals_per_90": 1.86,
       "is_man_utd": false
     },
     {
       "squad": "Crystal Palace",
       "season": "2025-26",
-      "progressive_carries": 75.0,
+      "progressive_carries": 216.0,
       "goals_per_90": 1.29,
       "is_man_utd": false
     },
     {
       "squad": "Everton",
       "season": "2025-26",
-      "progressive_carries": 111.0,
+      "progressive_carries": 244.0,
       "goals_per_90": 1.29,
       "is_man_utd": false
     },
     {
       "squad": "Fulham",
       "season": "2025-26",
-      "progressive_carries": 131.0,
+      "progressive_carries": 250.0,
       "goals_per_90": 0.86,
       "is_man_utd": false
     },
     {
       "squad": "Leeds United",
       "season": "2025-26",
-      "progressive_carries": 96.0,
+      "progressive_carries": 207.0,
       "goals_per_90": 1.0,
       "is_man_utd": false
     },
     {
       "squad": "Liverpool",
       "season": "2025-26",
-      "progressive_carries": 173.0,
+      "progressive_carries": 337.0,
       "goals_per_90": 1.86,
       "is_man_utd": false
     },
     {
       "squad": "Manchester City",
       "season": "2025-26",
-      "progressive_carries": 168.0,
+      "progressive_carries": 269.0,
       "goals_per_90": 1.86,
       "is_man_utd": false
     },
     {
       "squad": "Manchester Utd",
       "season": "2025-26",
-      "progressive_carries": 148.0,
+      "progressive_carries": 290.0,
       "goals_per_90": 1.0,
       "is_man_utd": true
     },
     {
       "squad": "Newcastle Utd",
       "season": "2025-26",
-      "progressive_carries": 111.0,
+      "progressive_carries": 301.0,
       "goals_per_90": 0.86,
       "is_man_utd": false
     },
     {
       "squad": "Nott'ham Forest",
       "season": "2025-26",
-      "progressive_carries": 143.0,
+      "progressive_carries": 332.0,
       "goals_per_90": 0.71,
       "is_man_utd": false
     },
     {
       "squad": "Sunderland",
       "season": "2025-26",
-      "progressive_carries": 87.0,
+      "progressive_carries": 210.0,
       "goals_per_90": 1.0,
       "is_man_utd": false
     },
     {
       "squad": "Tottenham",
       "season": "2025-26",
-      "progressive_carries": 130.0,
+      "progressive_carries": 271.0,
       "goals_per_90": 1.71,
       "is_man_utd": false
     },
     {
       "squad": "West Ham",
       "season": "2025-26",
-      "progressive_carries": 84.0,
+      "progressive_carries": 222.0,
       "goals_per_90": 0.86,
       "is_man_utd": false
     },
     {
       "squad": "Wolves",
       "season": "2025-26",
-      "progressive_carries": 82.0,
+      "progressive_carries": 203.0,
       "goals_per_90": 0.57,
       "is_man_utd": false
     }
